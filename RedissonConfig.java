@@ -79,5 +79,4 @@ public class RedissonConfig{
     public void setDatabase(int database) {
         this.database = database;
     }
-
 }
